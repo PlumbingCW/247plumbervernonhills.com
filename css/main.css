@@ -392,5 +392,5 @@ article.narrow h2{margin-top:36px}
 
 /* page and block hooks (body.pg-*, .blk-*) and the sticky call hook */
 .sticky-cta{-webkit-tap-highlight-color:transparent}
-body.pg-home,body.pg-service,body.pg-blog,body.pg-hub,body.pg-location,body.pg-contact,body.pg-standard,body.pg-404{min-height:100vh}
+body.pg-home,body.pg-service,body.pg-blog,body.pg-hub,body.pg-location,body.pg-hood,body.pg-contact,body.pg-standard,body.pg-404{min-height:100vh}
 .blk-faq,.blk-localnote{position:relative}
